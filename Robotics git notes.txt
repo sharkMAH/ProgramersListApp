@@ -1,0 +1,19 @@
+Robotics Notes: 
+	If there are any changes to Code use git hib with these steps:
+		git add ., 
+		git commit -m "your messege for what you are adding"
+		git push
+
+	To set up the repository(if you dont have a project already):
+		set up a file to easly to place the clone into.
+		Open git bash and put git clone then the url from git hub.
+		then make an empty project in eclips and import the clone into the empty project.
+		then go to the file in workspace or where ever all eclips files are saved and open git bash in the project
+		put git inint.
+		git status to check if it has worked
+		you should be good after that.
+
+	If you have a project that you have been working in or it has not wrked with git hub then just make a new one by 
+	folowing the steps from above and then jsut move the code you have into the one that works that you jsut created.
+
+	
